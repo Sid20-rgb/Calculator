@@ -18,8 +18,8 @@ the numbers. The calculation in calculator is so efficient that it barely makes 
 - Multiplication by clicking on the "X" button on the keyboard.
 - Division by clicking on the "÷" button on the keyboard.
 
-# Conclusion
-  As this calculator has really limited features I'm willing to upgrade it with new features like calculation of remainder, powers, roots,
+# Conclusion with future upgrades
+  As this calculator has limited features anf functions I'm willing to upgrade it with new features like calculation of remainder, powers, roots,
   trigonometric operations, etc. in future, other than that its a perfect and fine calculator for the basic and simple calculation.
   
 Siddhartha Ratna Shakya
