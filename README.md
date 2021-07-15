@@ -22,6 +22,8 @@ the numbers. The calculation in calculator is so efficient that it barely makes 
   As this calculator has limited features anf functions I'm willing to upgrade it with new features like calculation of remainder, powers, roots,
   trigonometric operations, etc. in future, other than that its a perfect and fine calculator for the basic and simple calculation.
   
+
+
 Siddhartha Ratna Shakya
 
 Student id: 210200
