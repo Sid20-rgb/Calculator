@@ -1,4 +1,4 @@
-<p align = "center"><img src= https://github.com/Sid20-rgb/calculator/blob/master/CalcImg.PNG></p>
+<p align = "center"><img src= https://github.com/Sid20-rgb/calculator/blob/master/CalcImg.PNG height = "300"></p>
 <p align = "center">CALCULATOR</p>
 
 
